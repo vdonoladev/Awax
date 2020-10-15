@@ -4,7 +4,7 @@
 
 - HTML
 - CSS
-- Responsividade
+- Responsivity
 
 #### Layout is responsive to mobile and tablet.
 
